@@ -4,7 +4,7 @@ This is my project for CSCI 411 @ CSU Chico where I developed a program to show 
 
 ## Demo
 Here is a demo video of the program being used:
-!['demo video'](assets/readmeResources/path-finding-test-video.mp4)
+!['demo video'](assets/readmeResources/path-finding-test-video.gif)
 
 
 ## Drawing
